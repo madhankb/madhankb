@@ -1,4 +1,4 @@
-## Hey 👋, I'm Madhan Kumar Baskaran!
+## Hey 👋, I'm Madhan!
 
 [![Linkedin: madhan](https://img.shields.io/badge/-madhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/madhan-kumar-baskaran/)
 [![GitHub madhan](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/madhankb)
