@@ -5,7 +5,7 @@
 </a>
 
 [![Linkedin: madhan](https://img.shields.io/badge/-madhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/madhan-kumar-baskaran/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub madhan](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/madhankb)
 
 I'm passionate about leveraging Elasticsearch, OpenSearch, and Python to build scalable, cloud-native data solutions that turn complex datasets into actionable insights. I specialize in optimizing data pipelines, driving operational efficiency, and enabling smarter decision-making through innovative, customer-focused approaches.
 
