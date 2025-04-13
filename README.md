@@ -1,6 +1,6 @@
 ## Hey, I'm Madhan!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Linkedin: madhan](https://img.shields.io/badge/-madhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/madhan-kumar-baskaran/)
+[![Linkedin: Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madhan/)](https://www.linkedin.com/in/madhan-kumar-baskaran/)
 [![GitHub madhan](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/madhankb)
 
 <p><em>Software Enginner at <a href="https://aws.amazon.com/"" target="_blank"><img style="margin: 15px" src="https://www.svgrepo.com/show/448266/aws.svg" alt="opensearch" height="40" align="center"/></a></em></p>
