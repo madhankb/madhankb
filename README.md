@@ -50,5 +50,5 @@
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
 </div>  
 
-![madhan stats](https://github-readme-stats.vercel.app/api?username=madhankb&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github)
+![madhan stats](https://github-readme-stats.vercel.app/api?username=madhankb&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&show_icons=true)
 
