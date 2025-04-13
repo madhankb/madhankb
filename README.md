@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhankb&label=Profile%20views&color=0e75b6&style=flat" alt="madhankb" /> </p>
 
-<br/> 
 
 ## Tools I Use  
 <div align="center">  
@@ -42,7 +41,6 @@
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
 </div>  
 
-<br/> 
 <br/> 
 
 ![madhan stats](https://github-readme-stats.vercel.app/api?username=madhankb&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&show_icons=true&theme=transparent)
