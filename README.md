@@ -3,7 +3,7 @@
 [![Linkedin: madhan](https://img.shields.io/badge/-madhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/madhan-kumar-baskaran/)
 [![GitHub madhan](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/madhankb)
 
-<p><em>Software Enginner at <a href="https://aws.amazon.com/">aws</a></em></p> [<img src="https://github.com/user-attachments/assets/c47ece6e-0c78-42dc-802b-341bc8c02a14" height="30em" align="center" alt="aws" title="aws"/>](https://github.com/aws)
+<p><em>Software Enginner at <a href="https://aws.amazon.com/">aws</a></em></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhankb&label=Profile%20views&color=0e75b6&style=flat" alt="madhankb" /> </p>
 
