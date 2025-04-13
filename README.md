@@ -28,9 +28,10 @@ I am eager to contribute my expertise to an organization that values data-driven
 
 <br/>  
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
+
+## Languages and Tools  
+<div align="center">  
 
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
@@ -55,4 +56,3 @@ I am eager to contribute my expertise to an organization that values data-driven
 <a href="https://www.elastic.co/kibana/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kibana.png" alt="Kibana" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
