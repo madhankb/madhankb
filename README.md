@@ -1,8 +1,4 @@
 ## Hey 👋, I'm Madhan Kumar Baskaran!
-  
-<a href="https://linkedin.com/in/madhan-kumar-baskaran" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
 
 [![Linkedin: madhan](https://img.shields.io/badge/-madhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/madhan-kumar-baskaran/)
 [![GitHub madhan](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/madhankb)
