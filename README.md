@@ -5,6 +5,8 @@
 
 <p><em>Software Enginner at <a href="https://aws.amazon.com/">aws</a></em></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhankb&label=Profile%20views&color=0e75b6&style=flat" alt="madhankb" /> </p>
+
 <br/> 
 
 ## Languages and Tools  
