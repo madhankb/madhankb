@@ -3,8 +3,8 @@
 [![Linkedin: madhan](https://img.shields.io/badge/-madhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/madhan-kumar-baskaran/)
 [![GitHub madhan](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/madhankb)
 
-<p><em>Software Enginner at <a href="https://aws.amazon.com/">aws</a></em></p>
-<p><em>Focussing in <a href="https://opensearch.org/" target="_blank"><img style="margin: 5px" src="https://opensearch.org/assets/brand/SVG/Logo/opensearch_logo_default.svg" alt="opensearch" height="20" align="center"/></a></em></p>
+<p><em>Software Enginner at <a href="https://aws.amazon.com/"" target="_blank"><img style="margin: 15px" src="https://www.svgrepo.com/show/448266/aws.svg" alt="opensearch" height="40" align="center"/></a></em></p>
+<p><em>Focussing in  <a href="https://opensearch.org/" target="_blank"><img style="margin: 5px" src="https://opensearch.org/assets/brand/SVG/Logo/opensearch_logo_default.svg" alt="opensearch" height="20" align="center"/></a></em></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhankb&label=Profile%20views&color=0e75b6&style=flat" alt="madhankb" /> </p>
