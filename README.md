@@ -32,7 +32,7 @@
 <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="30" /></a>  
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="30" /></a>  
 <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="30" /></a>
-<a href="https://opensearch.org/" target="_blank"><img style="margin: 10px" src="https://opensearch.org/assets/brand/SVG/Mark/opensearch_mark_default.svg" alt="opensearch" height="30" /></a>
+<a href="https://opensearch.org/" target="_blank"><img style="margin: 10px" src="https://opensearch.org/wp-content/uploads/2025/01/opensearch_mark_default.svg" alt="opensearch" height="30" /></a>
 <a href="https://opensearch.org/" target="_blank"><img style="margin: 10px" src="https://icon.icepanel.io/AWS/svg/Analytics/OpenSearch-Service.svg" alt="opensearch" height="30" /></a>
 <a href="https://solr.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_solr-icon.svg" alt="Solr" height="30" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="30" /></a>  
